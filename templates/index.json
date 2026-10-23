@@ -15,6 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Tendencias_de_Bolsas_em_Florada_Primaveril.png",
+            "mobile_image": "shopify://shop_images/Tendencias_de_Bolsas_em_Primavera_Urbana.png",
             "text_position": "middle_center",
             "subheading": "",
             "title": "",
@@ -469,6 +471,7 @@
         "template--17030236766503__a4ec1cd3-5453-4173-9ff3-25d5710d23c6-167051137768d5d568-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2026-10-23_at_15.43.16.jpg",
             "tab_label": "Item",
             "title": "Slay Every Day!",
             "content": "<p>Zorvell is all about expressing who you are.</p><p>Discover pieces that combine modern design, quality and that unique vibe that transforms any outfit.</p><p>Because being unique never goes out of style.</p>",
@@ -736,8 +739,8 @@
     "518bf19e-d0bd-4cf3-a5e9-9972204b5d99",
     "a0729406-605f-4b91-8fd9-42dd653985dd",
     "f03689a1-a342-4154-a5fc-376e90c0838c",
-    "0d55b7aa-8daa-4ddd-80e5-de77199241c1",
     "4b6d90fe-3a65-4df4-a75c-5974a4f6dee7",
+    "0d55b7aa-8daa-4ddd-80e5-de77199241c1",
     "text-with-icons",
     "7fd60623-3ec8-4eae-acfc-51203903f248",
     "d05c2af1-74a0-4181-899d-61e0121fdf29",
