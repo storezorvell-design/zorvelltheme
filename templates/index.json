@@ -188,7 +188,7 @@
         "show_cta": false,
         "background": "#fafafa",
         "text_color": "rgba(0,0,0,0)",
-        "button_background": "#030303",
+        "button_background": "#B49A68",
         "button_text_color": "#ffffff"
       }
     },
@@ -257,7 +257,7 @@
         "show_cta": false,
         "background": "#fafafa",
         "text_color": "#000000",
-        "button_background": "#000000",
+        "button_background": "#B49A68",
         "button_text_color": "#ffffff"
       }
     },
@@ -337,7 +337,7 @@
         "show_cta": false,
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
-        "button_background": "#000000",
+        "button_background": "#B49A68",
         "button_text_color": "#ffffff"
       }
     },
@@ -722,7 +722,7 @@
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
         "hashtag_color": "#0008ff",
-        "insta-btn_color": "#000000",
+        "insta-btn_color": "#B49A68",
         "insta-fonte_color": "#ffffff",
         "button_text": "CHECK OUR INSTAGRAM",
         "button_url": "https://www.instagram.com/vellerin.uk/"
