@@ -133,6 +133,64 @@
       "one_result": "There is one shipping rate for your address:",
       "multiple_results": "There are several shipping rates for your address:",
       "error": "One or more error occurred while retrieving shipping rates:"
+    },
+    "instagram": {
+      "name": "Instagram",
+      "blocks": {
+        "instagram": {
+          "name": "Instagram",
+          "enable": "Activate?"
+        }
+      },
+      "settings": {
+        "display_icon_more": "Show more icon?",
+        "hide_image_portion": "Scallop one side of the block",
+        "type_instagram": {
+          "option": "Choose the Instagram type",
+          "option1": "Use app code",
+          "option2": "Use image gallery",
+          "grid": "Grade",
+          "slider": "Slide"
+        },
+        "type_button_more": {
+          "option": "Button type",
+          "option1": "Block: Load more",
+          "option2": "Redirect to URL"
+        },
+        "type_app": {
+          "content": "App embed settings",
+          "embed_code": "Embed Javascript"
+        },
+        "type_image": {
+          "content": "Image settings",
+          "embed_code": "Insert Javascript code",
+          "type_instagram_by_gallery": {
+            "option": "When clicking on the image",
+            "option1": "Redirect to URL",
+            "option2": "Open fancybox"
+          }
+        },
+        "limit": "Limit the number of images to display",
+        "images_per_row": {
+          "option": "Images by Line"
+        },
+        "grid_gap": "Grid gap",
+        "slide_ins": {
+          "option": "Instagram Slider",
+          "option1": "Central mode",
+          "option2": "Standard"
+        },
+        "display_arrow": "Show arrow?",
+        "slide_rows": {
+          "option": "Slide lines"
+        },
+        "content": "Content",
+        "layout": "Layout",
+        "effects_image": "Image effects"
+      },
+      "presets": {
+        "name": "Instagram"
+      }
     }
   },
   "collection": {
@@ -878,8 +936,280 @@
           "label": {
             "many": "%{first} - %{last} of %{count} stores"
           }
+        },
+        "reveal_more_label": {
+          "many": "Show %{count} more places"
+        },
+        "all_stores_far_away": {
+          "title_with_item": {
+            "many": "The closest location containing your items is %{distance} away from %{location}"
+          }
+        },
+        "location_information_far_away": {
+          "many": "There are %{count} locations with your item"
+        },
+        "location_nearby": {
+          "many": "There are %{count} more nearby locations with your item"
+        },
+        "location_nearby_short": {
+          "many": "%{count} nearest locations with your item"
+        },
+        "location_far_away": {
+          "many": "%{count} locations with your item"
+        },
+        "toggle_more_locations": {
+          "many": "%{count} more locations"
+        },
+        "pickup_unavailable_banner_title": {
+          "many": "There are no locations that contain your items"
+        },
+        "pickup_unavailable_banner_title_with_country": {
+          "many": "There are no locations containing your items in %{country}"
+        },
+        "location_information_far_away_one_item": {
+          "many": "There are %{count} locations with the item"
+        },
+        "location_information_far_away_other_items": {
+          "many": "There are %{count} places with the items"
+        },
+        "location_nearby_one_item": {
+          "many": "There are %{count} nearby locations with the item"
+        },
+        "location_nearby_other_items": {
+          "many": "There are %{count} nearby locations with the items"
+        },
+        "location_nearby_short_one_item": {
+          "many": "%{count} nearby locations with the item"
+        },
+        "location_nearby_short_other_items": {
+          "many": "%{count} nearby locations with the items"
+        },
+        "location_far_away_one_item": {
+          "many": "%{count} locations with item"
+        },
+        "location_far_away_other_items": {
+          "many": "%{count} locations with the items"
+        },
+        "stock_details": {
+          "ship_separately": {
+            "many": "They will be sent separately"
+          },
+          "remove_items": {
+            "many": "They will be removed from the order"
+          }
+        },
+        "unavailable_item_count": {
+          "many": "%{count} items unavailable"
+        },
+        "ship_separately_notice": {
+          "many": "%{count} items will be shipped separately"
+        },
+        "stock_details_modal": {
+          "can_ship_description": {
+            "many": "These items are out of stock at the selected pickup location."
+          },
+          "cannot_ship_description": {
+            "many": "These items are out of stock at the selected pickup location and cannot be shipped."
+          }
+        },
+        "stock_details_banner": {
+          "heading": {
+            "many": "%{count} items are not available for pickup at %{location}"
+          },
+          "ship_separately": {
+            "many": "send them separately"
+          }
+        }
+      },
+      "merchandise_unavailable_in_buyer_location": {
+        "remove_items_action": {
+          "many": "remove unavailable items"
+        }
+      },
+      "remote_merchandise_only": {
+        "detail_item_label": {
+          "many": "{{count}} items"
+        }
+      },
+      "split_delivery": {
+        "inventory_issue_banner": {
+          "heading": {
+            "cannot_be_picked_up": {
+              "many": "%{count} items cannot be removed"
+            },
+            "cannot_be_shipped": {
+              "many": "%{count} items cannot be shipped"
+            }
+          },
+          "remove_item": {
+            "many": "remove items"
+          },
+          "ship_separately": {
+            "many": "Send separately"
+          },
+          "pick_them_up_in_store": {
+            "many": "Pick up in store"
+          },
+          "remove_item_only": {
+            "many": "Remove items"
+          }
+        },
+        "pickup_items_count": {
+          "many": "Remove %{count} items"
+        },
+        "ship_items_count": {
+          "many": "Send %{count} items"
+        },
+        "items_count": {
+          "many": "%{count} items"
         }
       }
+    },
+    "notices": {
+      "order": {
+        "cancel_reason": {
+          "many": "Others"
+        }
+      }
+    },
+    "page_titles": {
+      "search_results": {
+        "many": "Search: %{count} results found for \"%{terms}\""
+      }
+    }
+  },
+  "customer_accounts": {
+    "navigation_and_structure": {
+      "store_credit_multi_currency_accessibility_label": {
+        "many": "{{formattedBalance}} and store credit in {{count}} more currencies"
+      }
+    },
+    "orders": {
+      "order_list": {
+        "items": {
+          "many": "{{count}} items"
+        }
+      },
+      "order_status": {
+        "delivered_description_gift_card": {
+          "many": "The gift cards were sent by email."
+        },
+        "confirmed_gift_card_additional_description": {
+          "many": "Each gift card will be sent in a separate email."
+        },
+        "delivered_description_gift_card_text": {
+          "many": "Gift cards were sent by text message."
+        },
+        "confirmed_gift_card_additional_description_text": {
+          "many": "We will send each gift card in a separate email."
+        },
+        "gift_resend_success": {
+          "many": "Resent gift cards"
+        },
+        "gift_resend_failure": {
+          "many": "There was an issue resending the gift cards. Please try again or contact us."
+        },
+        "tracking_number": {
+          "many": "Tracking numbers"
+        },
+        "gift_card_resend_button": {
+          "many": "Resend gift cards"
+        },
+        "fulfillment_tracking": {
+          "gift_card_sent_to_recipient": {
+            "many": "The gift cards have been sent to the recipients."
+          }
+        }
+      }
+    },
+    "order_details": {
+      "image_gallery": {
+        "load_more_items": {
+          "many": "Show {{count}} more items"
+        }
+      },
+      "subtotal_label_with_quantity": {
+        "many": "Subtotal - {{count}} items"
+      },
+      "discount_order_stacking": {
+        "many": "Discounts on the order"
+      }
+    },
+    "B2B": {
+      "orders": {
+        "draft_order_list": {
+          "pending_tab_accessibility_label": {
+            "pending_orders": {
+              "many": "There are {{count}} pending requests"
+            }
+          }
+        }
+      },
+      "draft_order_details": {
+        "payment_status": {
+          "pending": {
+            "banner_overdue": {
+              "many": "Your payment was due {{count}} days ago"
+            },
+            "banner_due": {
+              "many": "The payment due date is in {{count}} days"
+            },
+            "banner_overdue_for_single_fulfillment": {
+              "many": "Payment for {{amount}} was due {{count}} days ago. {{link}}"
+            }
+          }
+        }
+      }
+    },
+    "errors": {
+      "banner_title": {
+        "many": "There are {{count}} errors"
+      }
+    },
+    "payment_methods": {
+      "add_payment_method": {
+        "subscription_contracts": {
+          "more_items": {
+            "many": "More {{count}} products"
+          },
+          "product_count": {
+            "many": "{{count}} products"
+          }
+        },
+        "updating_contracts": {
+          "many": "Updating {{count}} subscription agreements..."
+        },
+        "contracts_updated": {
+          "many": "{{count}} subscription contracts updated"
+        }
+      }
+    },
+    "ui_components": {
+      "autocompleteOptionsAvailable": {
+        "many": "{{count}} items available"
+      },
+      "mapClusterTitle": {
+        "many": "Cluster of {{number}} markers"
+      }
+    },
+    "date": {
+      "humanize": {
+        "lessThanOneHourAgo": {
+          "many": "{{count}} minutes ago"
+        }
+      }
+    }
+  },
+  "instagram": {
+    "name": "Instagram",
+    "blocks": {
+      "instagram": {
+        "name": "Instagram",
+        "enable": "Enable?"
+      }
+    },
+    "settings": {
+      "display_icon_more": "Show more icon?"
     }
   }
 }
