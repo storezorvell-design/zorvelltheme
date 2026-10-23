@@ -33,6 +33,7 @@
         },
         "slide-2": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "text_position": "middle_center",
             "subheading": "",
@@ -165,35 +166,6 @@
         "button_text_color": "#ffffff"
       }
     },
-    "0d55b7aa-8daa-4ddd-80e5-de77199241c1": {
-      "type": "featured-collections",
-      "blocks": {
-        "template--17030236766503__0d55b7aa-8daa-4ddd-80e5-de77199241c1-1670372177d391d908-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "party",
-            "label": "",
-            "button_text": "Ver todas",
-            "button_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17030236766503__0d55b7aa-8daa-4ddd-80e5-de77199241c1-1670372177d391d908-0"
-      ],
-      "settings": {
-        "title": "Party",
-        "content": "",
-        "products_count": 4,
-        "products_per_row": 4,
-        "stack_products": false,
-        "show_cta": false,
-        "background": "#fafafa",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "#b49a68",
-        "button_text_color": "#ffffff"
-      }
-    },
     "4b6d90fe-3a65-4df4-a75c-5974a4f6dee7": {
       "type": "featured-collections",
       "blocks": {
@@ -252,6 +224,35 @@
       ],
       "settings": {
         "title": "Explore Our Collection",
+        "content": "",
+        "products_count": 15,
+        "products_per_row": 6,
+        "stack_products": false,
+        "show_cta": false,
+        "background": "#fafafa",
+        "text_color": "#000000",
+        "button_background": "#b49a68",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "featured_collections_fnMQ7c": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_iQ97VP": {
+          "type": "collection",
+          "settings": {
+            "collection": "party",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_iQ97VP"
+      ],
+      "settings": {
+        "title": "For Party",
         "content": "",
         "products_count": 15,
         "products_per_row": 6,
@@ -740,7 +741,7 @@
     "a0729406-605f-4b91-8fd9-42dd653985dd",
     "f03689a1-a342-4154-a5fc-376e90c0838c",
     "4b6d90fe-3a65-4df4-a75c-5974a4f6dee7",
-    "0d55b7aa-8daa-4ddd-80e5-de77199241c1",
+    "featured_collections_fnMQ7c",
     "text-with-icons",
     "7fd60623-3ec8-4eae-acfc-51203903f248",
     "d05c2af1-74a0-4181-899d-61e0121fdf29",
