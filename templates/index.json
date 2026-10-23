@@ -163,13 +163,42 @@
         "button_text_color": "#ffffff"
       }
     },
+    "0d55b7aa-8daa-4ddd-80e5-de77199241c1": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--17030236766503__0d55b7aa-8daa-4ddd-80e5-de77199241c1-1670372177d391d908-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "party",
+            "label": "",
+            "button_text": "Ver todas",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17030236766503__0d55b7aa-8daa-4ddd-80e5-de77199241c1-1670372177d391d908-0"
+      ],
+      "settings": {
+        "title": "Party",
+        "content": "",
+        "products_count": 4,
+        "products_per_row": 4,
+        "stack_products": false,
+        "show_cta": false,
+        "background": "#fafafa",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "#030303",
+        "button_text_color": "#ffffff"
+      }
+    },
     "4b6d90fe-3a65-4df4-a75c-5974a4f6dee7": {
       "type": "featured-collections",
       "blocks": {
         "template--17030236766503__4b6d90fe-3a65-4df4-a75c-5974a4f6dee7-16767564983894c069-0": {
           "type": "collection",
           "settings": {
-            "collection": "watches",
+            "collection": "study-university",
             "label": "",
             "button_text": "VIEW COLLECTION",
             "button_url": ""
@@ -178,7 +207,7 @@
         "collection_YXTekB": {
           "type": "collection",
           "settings": {
-            "collection": "omega",
+            "collection": "everyday",
             "label": "",
             "button_text": "",
             "button_url": ""
@@ -187,7 +216,7 @@
         "collection_gyeDVL": {
           "type": "collection",
           "settings": {
-            "collection": "casio",
+            "collection": "party",
             "label": "",
             "button_text": "",
             "button_url": ""
@@ -196,7 +225,7 @@
         "collection_MhBazh": {
           "type": "collection",
           "settings": {
-            "collection": "poedagar",
+            "collection": "backpacks",
             "label": "",
             "button_text": "",
             "button_url": ""
@@ -205,7 +234,7 @@
         "collection_QbfMz3": {
           "type": "collection",
           "settings": {
-            "collection": "watch-cases",
+            "collection": "pouches-organisers",
             "label": "",
             "button_text": "",
             "button_url": ""
@@ -389,6 +418,7 @@
       "block_order": [
         "template--17030236766503__512e5e1b-4b9d-4bfb-a801-f1a936696ece-1675633955b3746aa3-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "Pagani Design",
         "content": "<p>Inspired by Swiss tradition and crafted with absolute precision, each model pays tribute to the perfect balance between performance, style and accessible luxury. With bold designs, premium materials and highly reliable automatic or quartz movements, Pagani watches are made for men who value authenticity, presence and sophistication in every detail.</p><p><strong>Elevate your time with Pagani Design, where elegance meets power.</strong></p>",
@@ -400,56 +430,6 @@
         "text_color": "rgba(0,0,0,0)",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "0d55b7aa-8daa-4ddd-80e5-de77199241c1": {
-      "type": "featured-collections",
-      "blocks": {
-        "template--17030236766503__0d55b7aa-8daa-4ddd-80e5-de77199241c1-1670372177d391d908-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "blusas",
-            "label": "",
-            "button_text": "Ver todas",
-            "button_url": ""
-          }
-        },
-        "9aa5264d-8514-4cd2-9196-665ca71f4698": {
-          "type": "collection",
-          "settings": {
-            "collection": "agasalhos",
-            "label": "",
-            "button_text": "Ver todos",
-            "button_url": ""
-          }
-        },
-        "3a17d8e5-0614-4a68-bab1-ab3ba9b2261b": {
-          "type": "collection",
-          "settings": {
-            "collection": "vestidos",
-            "label": "",
-            "button_text": "Ver todos",
-            "button_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17030236766503__0d55b7aa-8daa-4ddd-80e5-de77199241c1-1670372177d391d908-0",
-        "9aa5264d-8514-4cd2-9196-665ca71f4698",
-        "3a17d8e5-0614-4a68-bab1-ab3ba9b2261b"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Roupas Femininas",
-        "content": "<p>Estilo e empoderamento em cada peça</p>",
-        "products_count": 4,
-        "products_per_row": 4,
-        "stack_products": false,
-        "show_cta": false,
-        "background": "#fafafa",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "#030303",
-        "button_text_color": "#ffffff"
       }
     },
     "c738e3b1-707e-4d9d-93e9-f27d4a8a87e2": {
@@ -489,8 +469,8 @@
           "type": "item",
           "settings": {
             "tab_label": "Item",
-            "title": "About VELLERIN",
-            "content": "<p>VELLERIN is more than a brand; it is a lifestyle for men who seek sophistication, elegance, and exclusivity. Each piece is carefully selected to convey luxury and authenticity, offering a unique experience for those who value refinement in every detail. Discover luxury. Live VELLERIN.</p>",
+            "title": "Slay Every Day!",
+            "content": "<p>Zorvell is all about expressing who you are.</p><p>Discover pieces that combine modern design, quality and that unique vibe that transforms any outfit.</p><p>Because being unique never goes out of style.</p>",
             "button_text": "",
             "button_link": ""
           }
@@ -754,12 +734,12 @@
     "518bf19e-d0bd-4cf3-a5e9-9972204b5d99",
     "a0729406-605f-4b91-8fd9-42dd653985dd",
     "f03689a1-a342-4154-a5fc-376e90c0838c",
+    "0d55b7aa-8daa-4ddd-80e5-de77199241c1",
     "4b6d90fe-3a65-4df4-a75c-5974a4f6dee7",
     "text-with-icons",
     "7fd60623-3ec8-4eae-acfc-51203903f248",
     "d05c2af1-74a0-4181-899d-61e0121fdf29",
     "512e5e1b-4b9d-4bfb-a801-f1a936696ece",
-    "0d55b7aa-8daa-4ddd-80e5-de77199241c1",
     "c738e3b1-707e-4d9d-93e9-f27d4a8a87e2",
     "a4ec1cd3-5453-4173-9ff3-25d5710d23c6",
     "026aeb10-b4f0-4329-b658-aadbf9681f96",
