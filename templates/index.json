@@ -143,7 +143,7 @@
         "template--14518027550833__f03689a1-a342-4154-a5fc-376e90c0838c-1666202443f5a6bbde-0": {
           "type": "collection",
           "settings": {
-            "collection": "best-sellers",
+            "collection": "coach",
             "label": "",
             "button_text": "",
             "button_url": ""
@@ -208,7 +208,7 @@
         "collection_QbfMz3": {
           "type": "collection",
           "settings": {
-            "collection": "pouches-organisers",
+            "collection": "coach",
             "label": "",
             "button_text": "",
             "button_url": ""
