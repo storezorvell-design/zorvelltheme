@@ -639,35 +639,40 @@
         "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-0": {
           "type": "image",
           "settings": {
-            "caption": "<p>Time, style and sophistication. ⏳✨</p><p>Every detail matters when it comes to refined elegance. Vellerin embodies the modern gentleman with precision, confidence and impeccable style.</p>",
+            "image": "shopify://shop_images/01.png",
+            "caption": "<p>Texture, elegance and sophistication in every detail. 🤎✨ Our woven shoulder bag is the perfect companion for those who appreciate refined style with a modern touch. Its rich chocolate-brown shade makes it effortlessly easy to style, taking you from casual days to elegant occasions.</p>",
             "captionhashtag": ""
           }
         },
         "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-1": {
           "type": "image",
           "settings": {
-            "caption": "<p>Style, power and freedom.</p><p>Luxury lies in the details, and Vellerin is made to accompany you on every journey.</p>",
+            "image": "shopify://shop_images/02.png",
+            "caption": "<p>Effortless elegance starts with the right details. 🤎 This beautifully shaped shoulder bag brings together a sleek silhouette, a rich brown finish and everyday versatility. An elegant essential that makes every outfit feel a little more special. ✨<br/></p>",
             "captionhashtag": ""
           }
         },
         "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-2": {
           "type": "image",
           "settings": {
-            "caption": "<p>Time is a luxury for those who know how to make every moment count. ⏳✨</p><p>Two icons of watchmaking, bringing together heritage, precision and refined style. Which one is made for you?</p>",
+            "image": "shopify://shop_images/03.png",
+            "caption": "<p>A little texture makes all the difference. 🤎✨ With its beautifully woven finish and soft, elegant shape, this bag is designed to bring effortless sophistication to your everyday looks. The perfect balance between modern style and understated elegance.<br/><br/></p>",
             "captionhashtag": ""
           }
         },
         "ccbfc1d7-c63e-43f9-9db4-2f06b657d2c8": {
           "type": "image",
           "settings": {
-            "caption": "<p>Confidence, power and sophistication.</p><p>A refined man stands out through the details. Dress with purpose. Make an impression.</p>",
+            "image": "shopify://shop_images/04.png",
+            "caption": "<p>A touch of burgundy, a whole new level of elegance. 🍷❤️ With its beautiful deep-red tone and relaxed silhouette, this tote bag adds personality and sophistication to any outfit. Perfect for carrying your essentials while making a subtle statement wherever you go. ✨<br/><br/></p>",
             "captionhashtag": ""
           }
         },
         "cd6ec7c0-a75f-4ef0-a547-40bcf78bf4dc": {
           "type": "image",
           "settings": {
-            "caption": "<p>Precision, style and sophistication. ⏳✨</p><p>Time is in your hands, and so is refined elegance.</p>",
+            "image": "shopify://shop_images/05.png",
+            "caption": "<p>Some pieces simply belong in every wardrobe. 🤎🍂 With its warm caramel shade, soft silhouette and minimalist design, this shoulder bag is the kind of accessory that effortlessly complements every style. Elegant, versatile and perfect for everyday moments. ✨<br/><br/></p>",
             "captionhashtag": ""
           }
         },
